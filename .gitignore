@@ -1,0 +1,9 @@
+# Ignore Dependencies
+/frontend/node_modules
+/backend/vendor
+
+# Ignore Environment Variables (Security)
+.env
+.DS_Store
+.idea
+.vscode
